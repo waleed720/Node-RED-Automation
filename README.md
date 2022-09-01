@@ -22,5 +22,5 @@ We will create a flow in Node-RED to define the theme automatically every time y
 
 ![](https://raw.githubusercontent.com/orickcorreia/caule-themes-pack-1/master/docs/nodered.gif)
 
-### all Automation with Node-RED
-
+# All my .json file here
+[automation](automation/)
