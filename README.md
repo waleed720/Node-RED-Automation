@@ -2,20 +2,18 @@
 
 Flow-based programming for the Internet of Things.
 
-![Node-RED in the Home Assistant Frontend](images/screenshot.png)
+![Node-RED in the Home Assistant Frontend](images/Screenshot.png)
 
 ## About
 
-[Node-RED][nodered] is a programming tool for wiring together hardware devices,
-APIs and online services in new and interesting ways.
+Here I collect all my code that I wrote to make it easier for everyone to use red-node
 
-It provides a browser-based editor that makes it easy to wire together flows
-using the wide range of nodes in the palette that can be deployed to its
-runtime in a single click.
+[:books: Read the full add-on documentation](https://github.com/hassio-addons/addon-node-red/blob/main/node-red/DOCS.md)
 
-[:books: Read the full add-on documentation][docs]
 
-### Method 2) Automation with Node-RED
+
+
+### Automation with Node-RED
 
 **WARNING!** If you've never used Node-RED, [learn more by clicking here.](https://github.com/hassio-addons/addon-node-red)
 
